@@ -112,5 +112,9 @@ It empowers farmers with digital tools, promotes sustainable farming practices, 
 
 
 
+
+
+
 This is the landing page for the buyes(customer). 
 <img width="1366" height="658" alt="sample1" src="https://github.com/user-attachments/assets/277e7f97-f49f-4a6c-ad7b-54296124f05d" />
+for more ouput image results please access ScreenShot folder.
