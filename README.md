@@ -103,7 +103,14 @@ Progressive Web App (PWA) version for mobile users
 
 
 
+
 🌍 Impact
 
 AgriLink aims to create a transparent and fair marketplace for agricultural trading.
 It empowers farmers with digital tools, promotes sustainable farming practices, and provides customers with access to fresh, affordable produce — directly from the source.
+
+
+
+
+This is the landing page for the buyes(customer). 
+<img width="1366" height="658" alt="sample1" src="https://github.com/user-attachments/assets/277e7f97-f49f-4a6c-ad7b-54296124f05d" />
