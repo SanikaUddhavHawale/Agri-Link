@@ -1,0 +1,788 @@
+.nav1 {
+    height: 8rem;
+    display: flex;
+    background-color: #2e6417;
+    color: white;
+    justify-content: space-between;
+}
+
+.nav1 img {
+    height: 8rem;
+    margin-left: 15rem;
+}
+
+search {
+    background-color: white;
+    color: gray;
+    height: 2.7rem;
+    width: 30rem;
+    margin-top: 3rem;
+    font-size: 1.2rem;
+    padding-left: 1rem;
+    padding-top: 0.5rem;
+}
+
+#i1 {
+    background-color: black;
+    color: white;
+    padding: 0.2rem;
+    margin-left: 16rem;
+}
+
+.header-icons {
+    margin-right: 15rem;
+    margin-top: 3rem;
+}
+
+.header-icons a {
+    font-size: 20px;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.header-icons a:hover {
+    color: #4CAF50;
+}
+
+.nav2 {
+    justify-content: space-between;
+    display: flex;
+    margin: 1rem;
+    align-items: center;
+    margin: 0.9rem;
+    background-color: rgb(220, 248, 220);
+}
+
+.but2 button {
+    background-color: #2e6417;
+    color: white;
+    padding: 0.5rem 1.5rem;
+}
+
+.but2 button:hover {
+    background-color: white;
+    color: #2e6417;
+    border: 1px solid #2e6417;
+}
+
+.content2 a {
+    text-decoration: none;
+    color: black;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    color: #2b5d16;
+    font-size: 1.1rem;
+    padding: 0.5rem;
+}
+
+.content2 a:hover {
+    background-color: #2e6417;
+    color: white;
+}
+
+.call p {
+    text-decoration: none;
+    color: black;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    color: #2b5d16;
+    font-size: 1.1rem;
+}
+
+.sale {
+    text-align: center;
+}
+
+.sale img {
+    height: 18rem;
+    width: 80rem;
+}
+
+.container1 {
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+}
+
+.part1 {
+    display: flex;
+    gap: 1.5%;
+}
+
+.cat1 {
+    width: 65.5%;
+    background-color: #233d00;
+    height: 10rem;
+    border-radius: 15px;
+    display: flex;
+}
+
+.catpat1 {
+    width: 67%;
+    padding: 0.2rem;
+    padding-left: 2rem;
+    padding-top: 2rem;
+    color: white;
+}
+
+#ig1 {
+    position: absolute;
+    height: 10rem;
+    border-radius: 15px;
+}
+
+.cat2 {
+    width: 30%;
+    background-color: #ffa51f;
+    height: 10rem;
+    border-radius: 15px;
+    display: flex;
+}
+
+.catpat11 {
+    width: 60%;
+    padding: 0.2rem;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    color: white;
+}
+
+#ig2 {
+    position: absolute;
+    height: 6.5rem;
+    margin-top: 3rem;
+    border-radius: 15px;
+}
+
+.catpat11 button {
+    margin-top: 1.2rem;
+    background-color: #233d00;
+    color: white;
+    border: none;
+    padding: 5px 13px;
+    border-radius: 12px;
+}
+
+.catpat11 button:hover {
+    border: 2px solid #233d00;
+    background-color: #ffa51f;
+    color: white;
+}
+
+.part2 {
+    display: flex;
+    gap: 1.5%;
+}
+
+.cat3 {
+    width: 30%;
+    background-color: #602e9e;
+    height: 10rem;
+    border-radius: 15px;
+    display: flex;
+}
+
+#ig3 {
+    height: 10rem;
+    padding: 0.5rem;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.catpat22 {
+    width: 40%;
+}
+
+.catpat21 {
+    width: 60%;
+    padding: 0.2rem;
+    padding-top: 1rem;
+    margin-left: 1.5rem;
+    color: white;
+}
+
+.catpat21 button {
+    margin-top: 1.2rem;
+    background-color: #233d00;
+    color: white;
+    border: none;
+    padding: 5px 13px;
+    border-radius: 12px;
+}
+
+.catpat21 button:hover {
+    border: 2px solid #233d00;
+    background-color: #602e9e;
+    color: white;
+}
+
+.cat4 {
+    width: 30%;
+    background-color: #11676a;
+    height: 10rem;
+    border-radius: 15px;
+    display: flex;
+}
+
+#ig4 {
+    height: 10rem;
+    padding: 0.1rem;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.catpat31 {
+    width: 70%;
+    padding: 0.2rem;
+    padding-top: 1rem;
+    color: white;
+    margin-left: 0.9rem;
+}
+
+.catpat31 button {
+    margin-top: 1.2rem;
+    background-color: #233d00;
+    color: white;
+    border: none;
+    padding: 5px 13px;
+    border-radius: 12px;
+}
+
+.catpat31 button:hover {
+    border: 2px solid #233d00;
+    background-color: #11676a;
+    color: white;
+}
+
+.cat5 {
+    width: 35%;
+    background-color: #ff282f;
+    height: 10rem;
+    border-radius: 15px;
+    display: flex;
+}
+
+#ig5 {
+    height: 10rem;
+    padding: 0.1rem;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.catpat41 {
+    width: 80%;
+    padding: 0.2rem;
+    padding-top: 1rem;
+    color: white;
+}
+
+.catpat41 button {
+    margin-top: 1.2rem;
+    background-color: #233d00;
+    color: white;
+    border: none;
+    padding: 5px 13px;
+    border-radius: 12px;
+}
+
+.catpat41 button:hover {
+    border: 2px solid #233d00;
+    background-color: #ff282f;
+    color: white;
+}
+
+#h3 {
+    font-size: 1rem;
+    margin-left: 3rem;
+    font-weight: 700;
+}
+
+.tps {
+    display: flex;
+    gap: 4%;
+    margin: 2%;
+}
+
+.tp {
+    text-align: center;
+}
+
+.tp h4 {
+    font-size: 16px;
+}
+
+.tp img {
+    height: 8rem;
+    border-radius: 10px;
+}
+
+#h4 {
+    font-size: 2rem;
+    margin-left: 3rem;
+    font-weight: 700;
+    margin-top: 5rem;
+}
+
+.tps1 {
+    display: flex;
+    gap: 4%;
+    margin: 2%;
+}
+
+.tps2 {
+    display: flex;
+    gap: 4%;
+    margin: 2%;
+}
+
+.tps1,
+.tps2 .tp {
+    text-align: center;
+}
+
+.tps1 h4,
+.tps2 h4 {
+    font-size: 16px;
+    margin-top: 0.5rem;
+    font-weight: 700;
+}
+
+.tps1 img,
+.tps2 img {
+    height: 15rem;
+    border-radius: 10px;
+}
+
+#b1 {
+    margin-top: 1.2rem;
+    background-color: #233d00;
+    color: white;
+    border: none;
+    padding: 5px 13px;
+    border-radius: 12px;
+    font-size: 20px;
+    margin-left: 2rem;
+}
+
+.catpat41 button:hover {
+    border: 2px solid #233d00;
+    background-color: white;
+    color: black;
+}
+
+footer {
+    background-color: #233d00;
+    color: white;
+    text-align: center;
+    font-size: 1.2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+
+
+
+
+
+/* 🖥️ Large desktops and laptops */
+@media (max-width: 1300px) {
+    .nav1 img {
+        margin-left: 5rem;
+    }
+
+    search {
+        margin-left: 3rem;
+    }
+
+    .header-icons {
+        margin-right: 5rem;
+    }
+
+    .container1 h3 {
+        font-size: 20px;
+    }
+
+    .container1 p {
+        font-size: 12px;
+    }
+
+    .container1 button {
+        font-size: 12px;
+        border-radius: 5px;
+    }
+
+    .part1,
+    .part2 {
+        gap: 1rem;
+    }
+
+    .catpat1 {
+        width: 50%;
+    }
+}
+
+
+/* 💻 Medium laptops / desktops */
+@media (max-width: 1199px) {
+    .nav2 {
+        margin: 1rem;
+        align-content: center;
+    }
+
+    .but2 button {
+        font-size: 15px;
+    }
+
+    .content2 a {
+        font-size: 15px;
+    }
+
+    .call p {
+        font-size: 15px;
+    }
+
+    .catpat2,
+    .catpat12,
+    .catpat22,
+    .catpat32,
+    .catpat42 {
+        display: none;
+    }
+
+    .cat1,
+    .cat2,
+    .cat3,
+    .cat4,
+    .cat5 {
+        height: 6rem;
+    }
+
+    .catpat1,
+    .catpat11,
+    .catpat21,
+    .catpat31,
+    .catpat41 {
+        width: 100%;
+        text-align: center;
+        font-size: 5rem;
+        height: 5rem;
+        margin-left: 0;
+        padding-top: 0.5rem;
+    }
+
+    .catpat1 {
+        text-align: center;
+        width: 100%;
+        padding-left: 0;
+        padding: 0.5rem;
+    }
+
+    #h1 {
+        font-size: 1.1rem;
+    }
+
+    .container1 button {
+        display: none;
+    }
+
+    .part2>div {
+        height: 5rem;
+    }
+}
+
+/* 📲 Tablets */
+@media (max-width: 991px) {
+    .nav1 {
+        height: 5rem;
+    }
+
+    .nav1 img {
+        height: 5rem;
+    }
+
+    search {
+        margin-top: 17px;
+        height: 43px;
+        width: 22rem;
+    }
+
+    #i1 {
+        margin-left: 7rem;
+    }
+
+    .header-icons {
+        margin-top: 24px;
+        margin-left: 2rem;
+    }
+
+    .nav2 {
+        margin: 1rem;
+        align-content: center;
+    }
+
+    .but2 button {
+        font-size: 12px;
+        padding: 3px 10px;
+    }
+
+    .content2 a {
+        font-size: 13px;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .call p {
+        margin-top: 20px;
+        font-size: 13px;
+    }
+
+    .container1 h3 {
+        font-size: 14px;
+        margin-left: 0;
+    }
+
+    .catpat11 {
+        text-align: center;
+        width: 100%;
+        padding-left: 0;
+        padding: 0.5rem;
+    }
+
+    #h3 {
+        margin-top: 4rem;
+        margin-left: 2%;
+        font-size: 1.2rem;
+    }
+
+    #h4 {
+        font-size: 2rem;
+        margin-top: 6rem;
+        margin-left: 1%;
+    }
+
+    #b1 {
+        font-size: 1rem;
+    }
+
+    #b1 button {
+        padding: 3px 5px;
+    }
+
+    .tps {
+        gap: 5px;
+    }
+
+    .tp img {
+        height: 9.3rem;
+    }
+
+    .tp h4 {
+        font-size: 10px;
+    }
+}
+
+/* 📱 Mobile phones */
+@media (max-width: 767px) {
+    .nav1 {
+        height: 5rem;
+    }
+
+    .nav1 img {
+        height: 5rem;
+        margin-left: 15px;
+    }
+
+    search {
+        margin-top: 17px;
+        margin-left: 0;
+        margin-right: 19px;
+    }
+
+    .header-icons {
+        display: none;
+    }
+
+    .nav2 {
+        margin: 0.5rem;
+    }
+
+    .but2 button {
+        font-size: 0.9rem;
+    }
+
+    .content2 a {
+        margin-left: 0.1rem;
+        margin-right: 0.1rem;
+        font-size: 0.9rem;
+    }
+
+    .nav2 i {
+        display: none;
+    }
+
+    .call {
+        display: none;
+    }
+
+    #h3 {
+        margin-top: 4rem;
+        margin-left: 2%;
+    }
+
+    #h4 {
+        font-size: 1rem;
+        margin-top: 4rem;
+        margin-left: 1%;
+    }
+
+    #b1 {
+        font-size: 0.6rem;
+    }
+
+    #b1 button {
+        padding: 3px 5px;
+    }
+
+    .tps {
+        gap: 5px;
+    }
+
+    .tp img {
+        height: 3rem;
+    }
+
+    .tp h4 {
+        font-size: 10px;
+    }
+}
+
+/* 📱 Small phones */
+@media (max-width: 480px) {
+    search {
+        margin-left: 1rem;
+        font-size: 0.8rem;
+        justify-content: space-between;
+    }
+
+    #i1 {
+        margin-top: 5px;
+        margin-left: 5rem;
+    }
+
+    .but2 button {
+        font-size: 0.7rem;
+        padding: 5px;
+    }
+
+    .content2 a {
+        margin-left: 0.1px;
+        margin-right: 0.1px;
+        font-size: 0.6rem;
+    }
+
+    #h1 {
+        font-size: 0.9rem;
+    }
+
+    #p1 {
+        font-size: 0.6rem;
+    }
+
+    .container1 h3 {
+        font-size: 0.7rem;
+    }
+
+    #h1 {
+        font-size: 0.7rem;
+    }
+
+    #p1 {
+        font-size: 0.6rem;
+    }
+
+    #h3 {
+        margin-top: 4rem;
+        margin-left: 2%;
+    }
+
+    #h4 {
+        font-size: 1rem;
+        margin-top: 4rem;
+        margin-left: 1%;
+    }
+
+    #b1 {
+        font-size: 0.6rem;
+    }
+
+    #b1 button {
+        padding: 3px 5px;
+    }
+
+    .tps {
+        gap: 5px;
+    }
+
+    .tp img {
+        height: 3rem;
+    }
+
+    .tp h4 {
+        font-size: 10px;
+    }
+}
+
+/* 📱 Smaller phones */
+@media (max-width: 355px) {
+    search {
+        padding-top: 10px;
+    }
+
+    #i1 {
+        display: none;
+    }
+
+    .but2 button {
+        font-size: 0.5rem;
+        padding: 2px;
+    }
+
+    .content2 a {
+        margin-left: 0.1px;
+        margin-right: 0.1px;
+        font-size: 0.5rem;
+    }
+
+    #h3 {
+        margin-top: 4rem;
+        margin-left: 2%;
+    }
+
+    #h4 {
+        font-size: 1rem;
+        margin-top: 4rem;
+        margin-left: 1%;
+    }
+
+    #b1 {
+        font-size: 0.6rem;
+    }
+
+    #b1 button {
+        padding: 3px 5px;
+    }
+
+    .tps {
+        gap: 5px;
+    }
+
+    .tp img {
+        height: 3rem;
+    }
+
+    .tp h4 {
+        font-size: 10px;
+    }
+}

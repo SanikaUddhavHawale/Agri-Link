@@ -1,0 +1,153 @@
+body {
+    background-color: #233d00;
+}
+
+#fi {
+    margin-left: 30px;
+}
+
+#fs {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.nav {
+    display: flex;
+    margin: 10px;
+    background-color: #f8f9fa;
+    height: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: relative fixed;
+    margin-top: 10px;
+}
+
+.nav images {
+    display: flex;
+    height: 30px;
+    padding: 5px;
+}
+
+.nav button {
+    margin-left: 25px;
+    color: white;
+    background-color: #233d00;
+    border: none;
+    border-radius: 5px;
+    height: 70px;
+    width: 100px;
+    margin-top: 15px;
+    font-family: "Bree Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 100;
+}
+
+.nav button:hover {
+    color: rgb(0, 69, 0);
+    background-color: white;
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.3s;
+    font-weight: bolder;
+}
+
+.name {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.name img {
+    height: 200px;
+    border-radius: 50%;
+}
+
+.name h2 {
+    font-family: "Tagesschrift", system-ui;
+    font-weight: 50;
+    font-size: 22px;
+    color: white;
+    margin-top: 10px;
+}
+
+.about {
+    text-align: center;
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 20px;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.about:hover {
+    background-color: rgb(1, 46, 1);
+    color: white;
+    font-size: 21px;
+    transition: 0.3s ease;
+}
+
+.but button {
+    text-align: center;
+    background-color: white;
+    color: green;
+    border: none;
+    margin-left: 630px;
+    padding: 10px 20px;
+    font-family: "Lora", serif;
+    font-size: 21px;
+    font-family: "Bree Serif", serif;
+    font-weight: 500;
+    width: 200px;
+    border-radius: 5px;
+    margin-bottom: 45px;
+    margin-top: 10px;
+}
+
+.but button:hover {
+    background-color: rgb(188, 245, 188);
+    color: rgb(1, 56, 1);
+    font-size: 25px;
+    transition: 0.3s;
+    font-weight: bolder;
+}
+
+.sertitle h1 {
+    margin-top: 40px;
+    margin-bottom: 80px;
+    text-align: center;
+    font-size: 60px;
+}
+
+.services {
+    display: flex;
+    gap: 20px;
+}
+
+#service1 h2 {
+    font-family: "Tagesschrift", system-ui;
+}
+
+#service1 {
+    text-align: center;
+    color: white;
+    font-family: "Lora", serif;
+    font-size: 12px;
+    font-family: "Josefin Sans", sans-serif;
+    border: 2px solid rgb(128, 163, 128);
+    padding: 10px;
+    padding-bottom: 5rem;
+}
+
+#service1 :hover {
+    background-color: rgb(1, 46, 1);
+    color: white;
+    font-size: 13px;
+    transition: 0.3s ease;
+}
+
+#service1 img {
+    width: 150px;
+    border-radius: 50%;
+}
